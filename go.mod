@@ -1,4 +1,4 @@
-module github.com/H1gor1/CMS-Go
+module github.com/H1gor1/gopportunities
 
 go 1.22.2
 
